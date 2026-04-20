@@ -152,13 +152,13 @@ Each image run produces:
 ## Example Results
 
 ### Sample 1 — Dorsal Hand (Side View)
-![IDSS output showing vein segmentation with insertion point on side-view hand](outputs/idss_7b06ca5731aa4ed7a7e328a66aabc906.png)
+![IDSS output showing vein segmentation with insertion point on side-view hand](assets/idss_7b06ca5731aa4ed7a7e328a66aabc906.png)
 
 ### Sample 2 — Dorsal Hand (Fingers Visible)
-![IDSS output showing ranked vein segments on dorsal hand with fingers](outputs/idss_71a666bf3fbd461da32eb1b29c5706d9.png)
+![IDSS output showing ranked vein segments on dorsal hand with fingers](assets/idss_71a666bf3fbd461da32eb1b29c5706d9.png)
 
 ### Sample 3 — Dorsal Hand (Top View)
-![IDSS output showing best segment and recommended insertion point on top-view hand](outputs/idss_311cd49418e24e558ebfada13cde1912.png)
+![IDSS output showing best segment and recommended insertion point on top-view hand](assets/idss_311cd49418e24e558ebfada13cde1912.png)
 
 Each output panel shows (left to right):
 1. **Original Image** — input grayscale hand image
